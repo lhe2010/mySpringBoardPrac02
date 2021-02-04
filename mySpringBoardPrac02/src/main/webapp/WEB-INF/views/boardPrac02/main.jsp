@@ -6,8 +6,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-작동확인 
+	<div align="center">
+		<img alt="스프링로고이미지" src="resources/images/spring.PNG"/><br>
+		<button onclick="location.href='boardList'">게시글목록으로 이동</button>
+	</div>
 
 </body>
 </html>
